@@ -1,0 +1,2 @@
+webpackJsonp([1],{1:function(n,c,o){o(2),o(3)},18:function(n,c){},3:function(n,c,o){(function(n){n(document).ready(function(){alert("Olá Mundo22222!")})}).call(c,o(0))},4:function(n,c,o){o(5),n.exports=o(18)},5:function(n,c,o){(function(n){o(1),n(document).ready(function(){alert("Admin")})}).call(c,o(0))}},[4]);
+//# sourceMappingURL=admin.js.map

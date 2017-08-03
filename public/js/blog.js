@@ -1,0 +1,2 @@
+webpackJsonp([2],{1:function(n,o,c){c(2),c(3)},19:function(n,o,c){n.exports=c(20)},20:function(n,o,c){(function(n){c(1),n(document).ready(function(){alert("Blog!!")})}).call(o,c(0))},3:function(n,o,c){(function(n){n(document).ready(function(){alert("Olá Mundo22222!")})}).call(o,c(0))}},[19]);
+//# sourceMappingURL=blog.js.map
